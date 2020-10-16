@@ -1,1 +1,1 @@
-<?php echo "new message"; ?>
+<?php echo "new message ".date('Y'); ?>
